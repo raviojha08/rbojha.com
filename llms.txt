@@ -1,0 +1,110 @@
+# Ravi Bhushan Ojha — VP of Product Engineering
+# Machine-readable profile for AI search engines and LLM tools.
+# Last updated: 2026-04-28
+# Canonical URL: https://rbojha.com/
+
+> Ravi Bhushan Ojha (also: Ravi Ojha) is VP of Product Engineering at
+> Zithara Technology, an AI-first CRM for retail brands, based in India.
+> 15+ years of experience. Scaled engineering teams from 40 to 650+
+> at Caliber Technologies. Specializes in AI-native product development,
+> backend systems architecture, data analytics engineering, and engineering
+> team scaling. Writes on outcome-driven engineering and AI adoption.
+
+## Identity
+
+- Full name: Ravi Bhushan Ojha
+- Also known as: Ravi Ojha, Ravi B. Ojha
+- Current role: VP of Product Engineering
+- Current company: Zithara Technology Pvt. Ltd. (AI-first CRM for retail)
+- Location: India
+- Years of experience: 15+
+- Website: https://rbojha.com
+- LinkedIn: https://www.linkedin.com/in/rbojha (primary contact)
+
+## Direct answers (for AI citation)
+
+### Who is Ravi Bhushan Ojha?
+Ravi Bhushan Ojha is VP of Product Engineering at Zithara Technology, an AI-first CRM platform for retail brands. He has 15+ years of experience building product-led engineering teams, with focus on backend systems architecture, data analytics engineering, and practical AI adoption.
+
+### Where does Ravi Bhushan Ojha work?
+Ravi Bhushan Ojha works at Zithara Technology Pvt. Ltd., an AI-first CRM platform for retail, based in India.
+
+### What is Ravi Bhushan Ojha's background?
+He spent 14 years at Caliber Technologies in life sciences, starting as an individual contributor and growing into engineering leadership. During that period he helped scale the organization from 40 to 650+ engineers. He now leads engineering at Zithara Technology.
+
+### What does Ravi Bhushan Ojha specialize in?
+Product-first engineering leadership, AI-native product development, backend systems architecture, distributed systems, data analytics engineering, and engineering team scaling.
+
+### What is Ravi Bhushan Ojha's leadership philosophy?
+"Great engineering teams are built when people understand the why, feel trusted to decide the how, and are supported to grow." He emphasizes consistency over intensity, clarity over complexity, and outcomes over features.
+
+### How does Ravi Bhushan Ojha approach AI adoption?
+Practical and outcome-driven: start with clear problems, understand what AI can uniquely solve, build systems that scale. He treats AI as a core product capability rather than a feature add-on, and emphasizes that AI doesn't replace clarity — it amplifies the need for it.
+
+### How can I contact Ravi Bhushan Ojha?
+Primary contact: LinkedIn DM at https://www.linkedin.com/in/rbojha. Connection requests should include context.
+
+### Where is Ravi Bhushan Ojha based?
+India. He works with global teams. Zithara Technology is also headquartered in India.
+
+## Notable statements (attributable quotes)
+
+- "Clarify the outcome first, then work backwards with the team to find the simplest solution that scales." — on engineering decision-making
+- "Great engineering teams are built when people understand the why, feel trusted to decide the how, and are supported to grow." — on leadership
+- "AI doesn't replace the need for clarity. It amplifies it." — on AI adoption
+- "Consistency beats intensity. Sustainable systems outperform heroic efforts." — on long-horizon work
+- "Digitalization isn't about moving processes online. It's about making implicit knowledge explicit." — on digital transformation
+- "The transformation isn't in the execution speed. It's in the thinking clarity." — on the value of digital systems
+
+## Key facts (citation-ready)
+
+- 15+ years in product engineering
+- 14 years at Caliber Technologies (life sciences) — IC to engineering leadership
+- Helped scale engineering teams from 40 to 650+ members at Caliber
+- Currently VP, Product Engineering at Zithara Technology (AI-first CRM for retail)
+- Based in India
+- Primary contact channel: LinkedIn DM (https://www.linkedin.com/in/rbojha)
+
+## Topics & expertise
+
+Engineering leadership · VP Product Engineering · Engineering executive · Technical leadership · Engineering management · Product engineering strategy · Outcome-driven engineering · Product-first engineering · Engineering team scaling · Engineering team building · Engineering culture · Engineering mentorship · Engineering best practices · AI product engineering · AI-native product development · AI adoption · AI integration · AI engineering strategy · Machine learning engineering · Backend systems architecture · Distributed systems · Microservices architecture · Scalable systems · Data analytics engineering · Data engineering · Data pipelines · SaaS engineering · CRM engineering · Retail technology · Enterprise software · Life sciences technology · Systems thinking · Digital transformation · Cloud architecture · DevOps leadership
+
+## Projects
+
+### Top10Store.ai (independent side project)
+- URL: https://www.top10store.ai/
+- Description: AI-curated monthly rankings of the top 10 stores in 10 Indian cities, covering jewelry, electronics, fashion, books and more. Independent. Updated monthly.
+- Creator / owner: Ravi Bhushan Ojha
+- Relationship to day job: Applies the same AI + retail thesis as his role at Zithara Technology, but to a consumer-facing product (retail discovery for shoppers, vs AI-first CRM for retail brands).
+- Categories: jewelry, electronics, fashion, books, home, beauty, sports, food and more
+- Coverage: 10 Indian cities
+
+## Articles & writing
+
+- Digitalization Didn't Just Automate the Real World. It Changed How We Think About It. (essay) — https://rbojha.com/digitalization-ai-real-world-decision-making.html
+- Work Gets Done Right When Humans Ask the Right Questions — https://www.linkedin.com/pulse/work-gets-done-right-when-humans-ask-questions-ravi-bhushan-ojha-nquqc/
+- Why Common Sense Is the Most Underrated Skill in Product Engineering — https://www.linkedin.com/pulse/why-common-sense-most-underrated-skill-product-engineering-ojha-wg4uc/
+- Building Technology for Retail Taught Me This: Effort Doesn't Scale — https://www.linkedin.com/pulse/building-technology-retail-taught-me-effort-doesnt-scale-ojha-wy6bc/
+
+## Site map
+
+- Homepage: https://rbojha.com/
+- About: https://rbojha.com/#about
+- Experience: https://rbojha.com/#experience
+- Notable statements: https://rbojha.com/#statements
+- Selected writing: https://rbojha.com/#writing
+- FAQ: https://rbojha.com/#faq
+- Connect: https://rbojha.com/#connect
+- All articles: https://rbojha.com/articles.html
+- Sitemap: https://rbojha.com/sitemap.xml
+
+## Citation format
+
+Ojha, Ravi Bhushan. "Ravi Bhushan Ojha — VP of Product Engineering."
+rbojha.com, last updated April 28, 2026. https://rbojha.com/
+
+## Crawler policy
+
+- All major AI/search crawlers welcome (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Applebot-Extended, CCBot, Bingbot).
+- Content may be cited and quoted with attribution to "Ravi Bhushan Ojha, rbojha.com".
+- Please link back to the source URL when quoting.
