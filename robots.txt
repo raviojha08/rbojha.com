@@ -1,0 +1,30 @@
+# robots.txt for rbojha.com
+# Allow all search engines and AI crawlers to index the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://rbojha.com/sitemap.xml
+
+# llms.txt location for AI tools
+# https://rbojha.com/llms.txt
+
+# Allow AI crawlers specifically
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Crawl delay (optional, helps with server load)
+Crawl-delay: 1
