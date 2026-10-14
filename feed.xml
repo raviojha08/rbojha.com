@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ravi Bhushan Ojha — Essays</title>
+    <link>https://rbojha.com/</link>
+    <atom:link href="https://rbojha.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Essays on product engineering, AI adoption, systems thinking, and engineering leadership by Ravi Bhushan Ojha, VP of Product Engineering at Zithara Technology.</description>
+    <language>en</language>
+    <copyright>Copyright 2026 Ravi Bhushan Ojha</copyright>
+    <managingEditor>noreply@rbojha.com (Ravi Bhushan Ojha)</managingEditor>
+    <webMaster>noreply@rbojha.com (Ravi Bhushan Ojha)</webMaster>
+    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    <ttl>1440</ttl>
+    <image>
+      <url>https://rbojha.com/images/ravi-ojha-author.jpg</url>
+      <title>Ravi Bhushan Ojha — Essays</title>
+      <link>https://rbojha.com/</link>
+    </image>
+
+    <item>
+      <title>Who Trains the Next Senior Engineers?</title>
+      <link>https://rbojha.com/who-trains-the-next-senior-engineers.html</link>
+      <guid isPermaLink="true">https://rbojha.com/who-trains-the-next-senior-engineers.html</guid>
+      <dc:creator>Ravi Bhushan Ojha</dc:creator>
+      <category>Engineering Leadership</category>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>AI now does the work juniors used to learn on. So where will the next senior engineers come from?</description>
+    </item>
+
+    <item>
+      <title>Meta Changed How WhatsApp Business Charges You. Here's the Strategy.</title>
+      <link>https://rbojha.com/meta-waba-pricing-changes-strategy.html</link>
+      <guid isPermaLink="true">https://rbojha.com/meta-waba-pricing-changes-strategy.html</guid>
+      <dc:creator>Ravi Bhushan Ojha</dc:creator>
+      <category>Retail Technology</category>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Per-message pricing is live. The 24-hour window becomes billable in October 2026. Here's what to fix before the bill arrives — especially your AI reply flows.</description>
+    </item>
+
+    <item>
+      <title>Digitalization Didn't Just Automate the Real World. It Changed How We Think About It.</title>
+      <link>https://rbojha.com/digitalization-ai-real-world-decision-making.html</link>
+      <guid isPermaLink="true">https://rbojha.com/digitalization-ai-real-world-decision-making.html</guid>
+      <dc:creator>Ravi Bhushan Ojha</dc:creator>
+      <category>Digitalization</category>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <description>When the real world moved into systems, clarity entered decision-making. And with clarity, questions started surfacing — the right ones.</description>
+    </item>
+
+    <item>
+      <title>Work Gets Done Right When Humans Ask the Right Questions</title>
+      <link>https://rbojha.com/work-gets-done-right-when-humans-ask-questions.html</link>
+      <guid isPermaLink="true">https://rbojha.com/work-gets-done-right-when-humans-ask-questions.html</guid>
+      <dc:creator>Ravi Bhushan Ojha</dc:creator>
+      <category>AI &amp; Decisions</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Why clarity of thinking matters more than speed — especially in the age of AI.</description>
+    </item>
+
+    <item>
+      <title>Why Common Sense Is the Most Underrated Skill in Product Engineering</title>
+      <link>https://rbojha.com/common-sense-underrated-skill-product-engineering.html</link>
+      <guid isPermaLink="true">https://rbojha.com/common-sense-underrated-skill-product-engineering.html</guid>
+      <dc:creator>Ravi Bhushan Ojha</dc:creator>
+      <category>Product Engineering</category>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <description>How simplicity and judgment outperform complexity at scale.</description>
+    </item>
+
+    <item>
+      <title>Building Technology for Retail Taught Me This: Effort Doesn't Scale, Systems Do</title>
+      <link>https://rbojha.com/effort-doesnt-scale-systems-do.html</link>
+      <guid isPermaLink="true">https://rbojha.com/effort-doesnt-scale-systems-do.html</guid>
+      <dc:creator>Ravi Bhushan Ojha</dc:creator>
+      <category>Retail Technology</category>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <description>When systems don't talk, people compensate. And people don't scale.</description>
+    </item>
+  </channel>
+</rss>
